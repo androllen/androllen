@@ -11,6 +11,57 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😅 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📷 camera
+- 😄 smile
+- ❤️ heart
 -->
+
+
+Hi! I'm androllen 🙋🏽‍♂️. I like coding as like playing，Down to Earth moving it. 
+
+Here's about me:
+
+- 📚 I self-taught C#, Java-android, Python, Vue and Web
+
+  <details>
+    <summary>Projects for Python</summary>
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=androllen&repo=demoDjango)](https://github.com/androllen/demoDjango)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=androllen&repo=djangoShare)](https://github.com/androllen/djangoShare)
+  
+  </details>
+
+
+  <details>
+    <summary>Projects for Vue</summary>
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=androllen&repo=sqlitejs)](https://github.com/androllen/sqlitejs)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=androllen&repo=svga-vue)](https://github.com/androllen/svga-vue)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=androllen&repo=layout-ui)](https://github.com/androllen/layout-ui)
+  
+  </details>
+  
+  <details>
+    <summary>Projects for Web</summary>
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=androllen&repo=AnWorker)](https://github.com/androllen/AnWorker)
+  
+  </details>
+    
+
+  <details>
+    <summary>My Echarts</summary>
+  
+  [![androllen's github stats](https://github-readme-stats.vercel.app/api?username=androllen)](https://github.com/androllen/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=androllen&layout=compact)](https://github.com/androllen/github-readme-stats)
+
+  </details>
+
+
+
+
+
+My website: https://androllen.github.io/
