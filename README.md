@@ -60,8 +60,3 @@ Here's about me:
 
   </details>
 
-
-
-
-
-My website: https://androllen.github.io/
