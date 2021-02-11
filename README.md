@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 -->
 
 
-Hi! I'm androllen 🙋🏽‍♂️. I like coding as like playing，Down to Earth moving it. 
+Hi! I'm androllen 🙋🏽‍♂️. I like coding, it has become part of my life. 
 
 Here's about me:
 
-- 📚 I self-taught C#, Java-android, Python, Vue and Web
+- 📚 I self-taught C#, Java&android, Python, Vue and Web
 
   <details>
     <summary>Projects for Python</summary>
