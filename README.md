@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi! I'm androllen 🙋🏽‍♂️. I like coding, it has become part of my life. 
+I'm androllen 🙋🏽‍♂️. I like coding, it has become part of my life. 
 
 Here's about me:
 
@@ -48,15 +48,5 @@ Here's about me:
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=androllen&repo=AnWorker)](https://github.com/androllen/AnWorker)
   
-  </details>
-    
-
-  <details>
-    <summary>My Echarts</summary>
-  
-  [![androllen's github stats](https://github-readme-stats.vercel.app/api?username=androllen)](https://github.com/androllen/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=androllen&layout=compact)](https://github.com/androllen/github-readme-stats)
-
   </details>
 
